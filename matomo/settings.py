@@ -9,7 +9,7 @@ MODULE = "&module=API"
 EXPANDED = "&expanded=1"
 FILTER_LIMIT = "&filter_limit=-1"
 ID_SITE = "&idSite=150"
-PERIOD = "&period=day"
+PERIOD = "&period=week"
 
 FULL_REPORT = "&method=API.getProcessedReport"
 RAW_REPORT = "&method=API.get"
