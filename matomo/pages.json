@@ -1,0 +1,3525 @@
+{
+    "website": "mon.incubateur.anct.gouv.fr",
+    "prettyDate": "January 25 – 31, 2021",
+    "metadata": {
+        "category": "Actions",
+        "subcategory": "Pages",
+        "name": "Page URLs",
+        "module": "Actions",
+        "action": "getPageUrls",
+        "dimension": "Page URL",
+        "documentation": "This report contains information about the page URLs that have been visited. <br /> The table is organized hierarchically, the URLs are displayed as a folder structure.<br />Use the plus and minus icons on the left to navigate.",
+        "metrics": {
+            "nb_hits": "Pageviews",
+            "nb_visits": "Unique Pageviews"
+        },
+        "metricsDocumentation": {
+            "nb_hits": "The number of times this page was visited.",
+            "nb_visits": "The number of visits that included this page. If a page was viewed multiple times during one visit, it is only counted once.",
+            "avg_time_on_page": "The average amount of time visitors spent on this page (only the page, not the entire website).",
+            "bounce_rate": "The percentage of visits that started on this page and left the website straight away.",
+            "exit_rate": "The percentage of visits that left the website after viewing this page.",
+            "avg_time_generation": "The average time it took to generate the page. This metric includes the time it took the server to generate the web page, plus the time it took for the visitor to download the response from the server. A lower 'Avg. generation time' means a faster website for your visitors!"
+        },
+        "processedMetrics": {
+            "avg_time_on_page": "Avg. time on page",
+            "bounce_rate": "Bounce Rate",
+            "exit_rate": "Exit rate",
+            "avg_time_generation": "Avg. generation time"
+        },
+        "actionToLoadSubTables": "getPageUrls",
+        "imageGraphUrl": "index.php?module=API&method=ImageGraph.get&idSite=150&apiModule=Actions&apiAction=getPageUrls&token_auth=anonymous&period=range&date=2021-01-25,2021-01-31",
+        "imageGraphEvolutionUrl": "index.php?module=API&method=ImageGraph.get&idSite=150&apiModule=Actions&apiAction=getPageUrls&token_auth=anonymous&period=day&date=2021-01-25,2021-01-31",
+        "uniqueId": "Actions_getPageUrls"
+    },
+    "columns": {
+        "label": "Page URL",
+        "nb_hits": "Pageviews",
+        "nb_visits": "Unique Pageviews",
+        "avg_time_on_page": "Avg. time on page",
+        "bounce_rate": "Bounce Rate",
+        "exit_rate": "Exit rate",
+        "avg_time_generation": "Avg. generation time"
+    },
+    "reportData": [
+        {
+            "label": "/processes/transformation-numerique",
+            "nb_visits": 1058,
+            "nb_hits": 1612,
+            "bounce_rate": "53%",
+            "avg_time_on_page": "00:01:24",
+            "exit_rate": "70%",
+            "avg_time_generation": "0.57s"
+        },
+        {
+            "label": "/",
+            "nb_visits": 372,
+            "nb_hits": 564,
+            "bounce_rate": "28%",
+            "avg_time_on_page": "00:00:45",
+            "exit_rate": "38%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/",
+            "nb_visits": 266,
+            "nb_hits": 462,
+            "bounce_rate": "34%",
+            "avg_time_on_page": "00:00:58",
+            "exit_rate": "34%",
+            "avg_time_generation": "0.81s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/",
+            "nb_visits": 249,
+            "nb_hits": 416,
+            "bounce_rate": "49%",
+            "avg_time_on_page": "00:01:03",
+            "exit_rate": "36%",
+            "avg_time_generation": "0.68s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement",
+            "nb_visits": 109,
+            "nb_hits": 194,
+            "bounce_rate": "57%",
+            "avg_time_on_page": "00:01:04",
+            "exit_rate": "69%",
+            "avg_time_generation": "0.41s"
+        },
+        {
+            "label": "/processes/transformation-numerique/steps",
+            "nb_visits": 87,
+            "nb_hits": 116,
+            "bounce_rate": "69%",
+            "avg_time_on_page": "00:01:10",
+            "exit_rate": "55%",
+            "avg_time_generation": "0.17s"
+        },
+        {
+            "label": "/processes",
+            "nb_visits": 56,
+            "nb_hits": 75,
+            "bounce_rate": "67%",
+            "avg_time_on_page": "00:00:28",
+            "exit_rate": "32%",
+            "avg_time_generation": "0.21s"
+        },
+        {
+            "label": "/users/sign_up",
+            "nb_visits": 36,
+            "nb_hits": 39,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:01:17",
+            "exit_rate": "22%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/users/sign_in",
+            "nb_visits": 33,
+            "nb_hits": 59,
+            "bounce_rate": "71%",
+            "avg_time_on_page": "00:00:21",
+            "exit_rate": "39%",
+            "avg_time_generation": "1.68s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/27",
+            "nb_visits": 32,
+            "nb_hits": 33,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:24",
+            "exit_rate": "19%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/33",
+            "nb_visits": 31,
+            "nb_hits": 37,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:18",
+            "exit_rate": "13%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/7/",
+            "nb_visits": 28,
+            "nb_hits": 57,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:15",
+            "exit_rate": "14%",
+            "avg_time_generation": "0.37s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/39",
+            "nb_visits": 28,
+            "nb_hits": 35,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:06",
+            "exit_rate": "14%",
+            "avg_time_generation": "0.37s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/8/",
+            "nb_visits": 26,
+            "nb_hits": 39,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:34",
+            "exit_rate": "42%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/18",
+            "nb_visits": 26,
+            "nb_hits": 32,
+            "bounce_rate": "50%",
+            "avg_time_on_page": "00:01:07",
+            "exit_rate": "19%",
+            "avg_time_generation": "0.38s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/37",
+            "nb_visits": 26,
+            "nb_hits": 28,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:39",
+            "exit_rate": "23%",
+            "avg_time_generation": "0.35s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/45",
+            "nb_visits": 23,
+            "nb_hits": 25,
+            "bounce_rate": "67%",
+            "avg_time_on_page": "00:00:35",
+            "exit_rate": "35%",
+            "avg_time_generation": "0.37s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/38",
+            "nb_visits": 23,
+            "nb_hits": 32,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "57%",
+            "avg_time_generation": "0.35s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[state][]=withdrawn",
+            "nb_visits": 21,
+            "nb_hits": 27,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:17",
+            "exit_rate": "19%",
+            "avg_time_generation": "0.37s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/32",
+            "nb_visits": 21,
+            "nb_hits": 23,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:56",
+            "exit_rate": "24%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[state][]=withdrawn",
+            "nb_visits": 20,
+            "nb_hits": 24,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:26",
+            "exit_rate": "5%",
+            "avg_time_generation": "0.35s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/13",
+            "nb_visits": 18,
+            "nb_hits": 19,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:59",
+            "exit_rate": "11%",
+            "avg_time_generation": "0.42s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/40",
+            "nb_visits": 18,
+            "nb_hits": 20,
+            "bounce_rate": "43%",
+            "avg_time_on_page": "00:01:06",
+            "exit_rate": "39%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/31",
+            "nb_visits": 17,
+            "nb_hits": 20,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:41",
+            "exit_rate": "12%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/34",
+            "nb_visits": 17,
+            "nb_hits": 20,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:20",
+            "exit_rate": "18%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/44",
+            "nb_visits": 16,
+            "nb_hits": 17,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:41",
+            "exit_rate": "19%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/24",
+            "nb_visits": 16,
+            "nb_hits": 17,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:08",
+            "exit_rate": "13%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/26",
+            "nb_visits": 16,
+            "nb_hits": 18,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:21",
+            "exit_rate": "19%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/29",
+            "nb_visits": 16,
+            "nb_hits": 16,
+            "bounce_rate": "50%",
+            "avg_time_on_page": "00:00:28",
+            "exit_rate": "25%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41",
+            "nb_visits": 16,
+            "nb_hits": 18,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:37",
+            "exit_rate": "19%",
+            "avg_time_generation": "0.37s"
+        },
+        {
+            "label": "/account",
+            "nb_visits": 15,
+            "nb_hits": 45,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:42",
+            "exit_rate": "13%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/17",
+            "nb_visits": 15,
+            "nb_hits": 15,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:33",
+            "exit_rate": "20%",
+            "avg_time_generation": "1.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals",
+            "nb_visits": 15,
+            "nb_hits": 26,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:32",
+            "exit_rate": "47%",
+            "avg_time_generation": "0.74s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/46",
+            "nb_visits": 15,
+            "nb_hits": 19,
+            "bounce_rate": "67%",
+            "avg_time_on_page": "00:00:39",
+            "exit_rate": "20%",
+            "avg_time_generation": "0.47s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=9",
+            "nb_visits": 15,
+            "nb_hits": 17,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:23",
+            "exit_rate": "20%",
+            "avg_time_generation": "0.6s"
+        },
+        {
+            "label": "/users",
+            "nb_visits": 15,
+            "nb_hits": 32,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:01",
+            "exit_rate": "7%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/42",
+            "nb_visits": 14,
+            "nb_hits": 16,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:25",
+            "exit_rate": "21%",
+            "avg_time_generation": "0.38s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/new",
+            "nb_visits": 14,
+            "nb_hits": 20,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:07:41",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/steps",
+            "nb_visits": 13,
+            "nb_hits": 21,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:05",
+            "exit_rate": "31%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/19",
+            "nb_visits": 13,
+            "nb_hits": 16,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:02:22",
+            "exit_rate": "15%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/15",
+            "nb_visits": 12,
+            "nb_hits": 13,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:19",
+            "exit_rate": "42%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/40…",
+            "nb_visits": 12,
+            "nb_hits": 14,
+            "bounce_rate": "67%",
+            "avg_time_on_page": "00:00:43",
+            "exit_rate": "92%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/36",
+            "nb_visits": 12,
+            "nb_hits": 19,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:25",
+            "exit_rate": "8%",
+            "avg_time_generation": "0.3s"
+        },
+        {
+            "label": "/processes/dHJhbnNmb3",
+            "nb_visits": 11,
+            "nb_hits": 11,
+            "bounce_rate": "91%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "91%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/25",
+            "nb_visits": 11,
+            "nb_hits": 11,
+            "bounce_rate": "75%",
+            "avg_time_on_page": "00:00:16",
+            "exit_rate": "27%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/28",
+            "nb_visits": 11,
+            "nb_hits": 15,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:25",
+            "exit_rate": "27%",
+            "avg_time_generation": "0.49s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/new",
+            "nb_visits": 10,
+            "nb_hits": 13,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:06:31",
+            "exit_rate": "20%",
+            "avg_time_generation": "0.24s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals",
+            "nb_visits": 9,
+            "nb_hits": 21,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:43",
+            "exit_rate": "33%",
+            "avg_time_generation": "0.57s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/35",
+            "nb_visits": 9,
+            "nb_hits": 9,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:32",
+            "exit_rate": "11%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/pages",
+            "nb_visits": 7,
+            "nb_hits": 10,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "29%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/16",
+            "nb_visits": 7,
+            "nb_hits": 8,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:10",
+            "exit_rate": "14%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/49",
+            "nb_visits": 7,
+            "nb_hits": 7,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:03:43",
+            "exit_rate": "57%",
+            "avg_time_generation": "0.35s"
+        },
+        {
+            "label": "/users/sign_up?redirect_url=/processes/transformation-numerique/f/5/proposals/new",
+            "nb_visits": 7,
+            "nb_hits": 8,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:04",
+            "exit_rate": "29%",
+            "avg_time_generation": "0.17s"
+        },
+        {
+            "label": "/pages/faq",
+            "nb_visits": 6,
+            "nb_hits": 7,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:46",
+            "exit_rate": "17%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/pages/terms-and-conditions",
+            "nb_visits": 6,
+            "nb_hits": 6,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "33%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/processes/pvd",
+            "nb_visits": 6,
+            "nb_hits": 25,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:03:12",
+            "exit_rate": "50%",
+            "avg_time_generation": "0.38s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/50",
+            "nb_visits": 6,
+            "nb_hits": 10,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:50",
+            "exit_rate": "33%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/47",
+            "nb_visits": 6,
+            "nb_hits": 6,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:19",
+            "exit_rate": "17%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/profiles/Nico04150/activity",
+            "nb_visits": 6,
+            "nb_hits": 6,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "17%",
+            "avg_time_generation": "0.91s"
+        },
+        {
+            "label": "/users/password/new",
+            "nb_visits": 6,
+            "nb_hits": 9,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/34?filter[category_id][]=1",
+            "nb_visits": 5,
+            "nb_hits": 5,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:04",
+            "exit_rate": "80%",
+            "avg_time_generation": "0.57s"
+        },
+        {
+            "label": "/profiles/incubateur_des_terri/activity",
+            "nb_visits": 5,
+            "nb_hits": 6,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:02:31",
+            "exit_rate": "20%",
+            "avg_time_generation": "1.33s"
+        },
+        {
+            "label": "/user_interests",
+            "nb_visits": 5,
+            "nb_hits": 5,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/data_portability",
+            "nb_visits": 4,
+            "nb_hits": 4,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:08",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.21s"
+        },
+        {
+            "label": "/notifications_settings",
+            "nb_visits": 4,
+            "nb_hits": 4,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30",
+            "nb_visits": 4,
+            "nb_hits": 11,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:54",
+            "exit_rate": "25%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/51",
+            "nb_visits": 4,
+            "nb_hits": 5,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:07:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.17s"
+        },
+        {
+            "label": "/profiles/jmbourgogne-ODF/activity",
+            "nb_visits": 4,
+            "nb_hits": 4,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:20",
+            "exit_rate": "25%",
+            "avg_time_generation": "0.58s"
+        },
+        {
+            "label": "/profiles/vincent/activity",
+            "nb_visits": 4,
+            "nb_hits": 5,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/gamification/badges",
+            "nb_visits": 3,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:19",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/pages/mentions-legales",
+            "nb_visits": 3,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:12",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.13s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/9/",
+            "nb_visits": 3,
+            "nb_hits": 10,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:17",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.21s"
+        },
+        {
+            "label": "/processes/pvd/steps",
+            "nb_visits": 3,
+            "nb_hits": 6,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:38",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/47?order=recent",
+            "nb_visits": 3,
+            "nb_hits": 18,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:15",
+            "exit_rate": "33%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=1",
+            "nb_visits": 3,
+            "nb_hits": 4,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:03",
+            "exit_rate": "33%",
+            "avg_time_generation": "0.51s"
+        },
+        {
+            "label": "/users/password",
+            "nb_visits": 3,
+            "nb_hits": 5,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.87s"
+        },
+        {
+            "label": "/users/sign_up?locale=fr",
+            "nb_visits": 3,
+            "nb_hits": 3,
+            "bounce_rate": "33%",
+            "avg_time_on_page": "00:00:48",
+            "exit_rate": "33%",
+            "avg_time_generation": "0.62s"
+        },
+        {
+            "label": "/conversations",
+            "nb_visits": 2,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/notifications",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:20",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/7/proposals/new",
+            "nb_visits": 2,
+            "nb_hits": 7,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:29",
+            "exit_rate": "50%",
+            "avg_time_generation": "0.23s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/8/proposals/new",
+            "nb_visits": 2,
+            "nb_hits": 5,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:02:17",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/pvd-habiter-autrement-consultation",
+            "nb_visits": 2,
+            "nb_hits": 12,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.13s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30?filter[state][]=withdrawn",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:20",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.4s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/45?filter[category_id][]=&filter[search_text]=&order=",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.58s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[category_id][]=12",
+            "nb_visits": 2,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "50%",
+            "avg_time_generation": "0.12s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.77s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=8",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:02",
+            "exit_rate": "50%",
+            "avg_time_generation": "0.24s"
+        },
+        {
+            "label": "/processes/transformation-numerique?participatory_process_slug=transformation-numerique",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:12:17",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.56s"
+        },
+        {
+            "label": "/profiles/BorderCloud/activity",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:12",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.55s"
+        },
+        {
+            "label": "/profiles/EG04CCAPV/activity",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:14",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/profiles/LinaB/activity",
+            "nb_visits": 2,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:31",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/profiles/NOUNOU/activity",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/profiles/NOUNOU/timeline",
+            "nb_visits": 2,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:10",
+            "exit_rate": "0%",
+            "avg_time_generation": "1.16s"
+        },
+        {
+            "label": "/profiles/qsplorraine-54555788/activity",
+            "nb_visits": 2,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:08",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/profiles/qsplorraine-54555788/following",
+            "nb_visits": 2,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:07",
+            "exit_rate": "50%",
+            "avg_time_generation": "0.41s"
+        },
+        {
+            "label": "/profiles/RSSI/activity",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:07",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/users/confirmation",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.91s"
+        },
+        {
+            "label": "/users/sign_up?redirect_url=/processes/transformation-numerique/f/2/proposals/new",
+            "nb_visits": 2,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:26",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.17s"
+        },
+        {
+            "label": "/etapes",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/6/",
+            "nb_visits": 1,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.28s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/8/proposals",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:29",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.24s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/8/proposals/48/complete",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:13",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/f/8/proposals?filter[state][]=withdrawn",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/pvd-habiter-autrement/pvd-habiter-autrement/f/9/",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:10",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.09s"
+        },
+        {
+            "label": "/processes/pvd/f/6/",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.45s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/<span id=\"ms-outlook-android-cursor\">!~OMSelectionMarkerEnd~",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/13?filter[category_id][]=&filter[category_id][]=10&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:31",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/14?filter[state][]=withdrawn",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:15",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/15?filter[category_id][]=&filter[category_id][]=3&filter[category_id][]=11&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/15?filter[category_id][]=&filter[category_id][]=3&filter[search_text]=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/16?locale=fr",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.26s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/17?filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=12&filter[category_id][]=10&filter[category_id][]=8&filter[category_id][]=13&filter[category_id][]=11&filter[category_id][]=1&filter[category_id][]=7&filter[category_id][]=4&filter[category_id][]=15&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:31",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/18/versions",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.13s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/18?filter[category_id][]=&filter[category_id][]=5&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:29",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:27",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.16s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30/edit",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:39",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30/edit_draft",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:14",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30/preview",
+            "nb_visits": 1,
+            "nb_hits": 3,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30/versions",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:13",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.17s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30/versions/1",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:15",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/30?filter[category_id][]=&filter[search_text]=&order=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.53s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/37/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:13",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/37/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/37?filter[category_id][]=&filter[search_text]=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:46",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/42/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/42/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:04",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/42?filter[activity]=all&filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=9&filter[category_id][]=1&filter[category_id][]=2&filter[category_id][]=4&filter[category_id][]=15&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/44/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:13:13",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/44/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "0%",
+            "avg_time_generation": "1.19s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/49/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/49/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.28s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/50/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:13",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.4s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/50/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:04",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals/scdl.opendatafrance.net",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:16",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[category_id][]=9",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:14",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.61s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[category_id][]=13",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:54",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.6s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=3&filter[category_id][]=11",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:02:21",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.28s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=5",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.26s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=10",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:19",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=9&filter[category_id][]=1&filter[category_id][]=2&filter[category_id][]=4&filter[category_id][]=15&filter[activity]=all",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:03:33",
+            "exit_rate": "0%",
+            "avg_time_generation": "0s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/2/proposals?order=recent&per_page=100",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:32",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.51s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/24?component_id=5&locale=fr&order=most_followed&participatory_process_slug=transformation-numerique",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:04",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.39s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/26?filter[category_id][]=&filter[category_id][]=12&filter[category_id][]=8&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:14",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.26s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/26?filter[category_id][]=8",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:04:31",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=&filter[category_id][]=6&filter[category_id][]=1&filter[category_id][]=4&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.23s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=1",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:03:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.75s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/28?filter[category_id][]=&filter[category_id][]=2&filter[category_id][]=15&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:40",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/29?filter[activity]=all&filter[category_id][]=&filter[category_id][]=15&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:02:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/29?filter[category_id][]=&filter[category_id][]=15&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:30",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.28s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/31/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:34",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.44s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/31/edit",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:15",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/31/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.38s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/31?filter[category_id][]=9",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:20",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.44s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/32/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.39s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/32/edit_draft",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:46",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.26s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/32/preview",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/32?filter[category_id][]=9",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:30",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.55s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/33/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:36",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.46s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/33/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:22",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.44s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/33?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:12",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/34/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:16",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/34/edit",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:12",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/34/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:19",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/34?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:04",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/35/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/35/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/35?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:08",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/35?order=most_followed",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:32",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.42s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/36/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:10",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/36/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.16s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/36?commentId=12",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.58s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/36?filter[category_id][]=4",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.3s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/38/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:22",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/38/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:08",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/38?filter[category_id][]=&filter[category_id][]=5&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/38?filter[category_id][]=&filter[category_id][]=6&filter[category_id][]=5&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:17",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.38s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/39/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:38",
+            "exit_rate": "0%",
+            "avg_time_generation": "1.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/39/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:07",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.24s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/39?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:58",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.46s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/39?order=most_followed",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:46",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.32s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:43",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:07",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41?filter[activity]=all&filter[category_id][]=&filter[search_text]=smica&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:23",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41?filter[activity]=my_proposals&filter[category_id][]=&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:24",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.38s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:22",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/41?filter[category_id][]=&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/43/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/46/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:42",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/46/edit",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:03:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.23s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/46/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:28",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.29s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/46?filter[category_id][]=&filter[search_text]=archivage&order=random",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.01s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/46?filter[category_id][]=9",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:22",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.39s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/47/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:03:38",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/47/edit_draft",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/47/preview",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.16s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/47?order=most_followed",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.37s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/51/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:44",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.21s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/51/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:20",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.22s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/51?order=recent",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:22",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.39s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/53",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.41s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/53/complete",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:29",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.19s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/53/preview",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:14",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals/53?order=recent",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:22",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.26s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:14",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.59s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=4",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:04",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.4s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=1",
+            "nb_visits": 1,
+            "nb_hits": 5,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:07",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=2&filter[category_id][]=15",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:04:52",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.31s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=12&filter[category_id][]=8",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.36s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=15&filter[activity]=all",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.3s"
+        },
+        {
+            "label": "/processes/transformation-numerique/f/5/proposals?order=most_followed",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:29",
+            "exit_rate": "0%",
+            "avg_time_generation": "1s"
+        },
+        {
+            "label": "/profiles/Bruno_IRATCHET/activity",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:02",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.12s"
+        },
+        {
+            "label": "/profiles/Bruno_IRATCHET/followers",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:01",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.12s"
+        },
+        {
+            "label": "/profiles/Bruno_IRATCHET/following",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:01",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.12s"
+        },
+        {
+            "label": "/profiles/Bruno_IRATCHET/groups",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.12s"
+        },
+        {
+            "label": "/profiles/Bruno_IRATCHET/timeline",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:16",
+            "exit_rate": "0%",
+            "avg_time_generation": "2.56s"
+        },
+        {
+            "label": "/profiles/fanetk/activity",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:08",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.45s"
+        },
+        {
+            "label": "/profiles/Montastruc/timeline",
+            "nb_visits": 1,
+            "nb_hits": 10,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:02",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/profiles/Nico04150/followers",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:02",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.27s"
+        },
+        {
+            "label": "/profiles/Nico04150/following",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.33s"
+        },
+        {
+            "label": "/profiles/Nico04150/groups",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:03",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.28s"
+        },
+        {
+            "label": "/profiles/Nico04150/timeline",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:12",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.39s"
+        },
+        {
+            "label": "/profiles/NOUNOU/following",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:06",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/profiles/qsplorraine-54555788/followers",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:01",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.09s"
+        },
+        {
+            "label": "/profiles/qsplorraine-54555788/groups",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.12s"
+        },
+        {
+            "label": "/profiles/ThierryMartin/activity",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:02",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.21s"
+        },
+        {
+            "label": "/profiles/VangheluweStephane/activity",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:11",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.39s"
+        },
+        {
+            "label": "/profiles/VangheluweStephane/timeline",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:07",
+            "exit_rate": "0%",
+            "avg_time_generation": "3.28s"
+        },
+        {
+            "label": "/profiles/vincent/timeline",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:09",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.64s"
+        },
+        {
+            "label": "/profiles/wcamalet/activity",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:03",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.13s"
+        },
+        {
+            "label": "/profiles/wcamalet/followers",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:01",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/profiles/wcamalet/following",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:02",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.18s"
+        },
+        {
+            "label": "/profiles/wcamalet/groups",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:01",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.13s"
+        },
+        {
+            "label": "/relance/",
+            "nb_visits": 1,
+            "nb_hits": 2,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:28",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.11s"
+        },
+        {
+            "label": "/search?utf8=✓&term=&commit=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.61s"
+        },
+        {
+            "label": "/search?utf8=✓&term=conseille numerique&commit=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.45s"
+        },
+        {
+            "label": "/search?utf8=✓&term=enquête mobilité&commit=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.13s"
+        },
+        {
+            "label": "/search?utf8=✓&term=petites villes de demain&commit=",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:05",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.21s"
+        },
+        {
+            "label": "/users/confirmation/new",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:08",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.25s"
+        },
+        {
+            "label": "/users/confirmation?confirmation_token=AE-GnZxfUyoBs97Us_Pe",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:13:41",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.15s"
+        },
+        {
+            "label": "/users/confirmation?confirmation_token=T611RGaREbjv87VDJtAQ",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:16",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/users/invitation/accept?invitation_token=Bsv4ANh_7K1GmMn5otZk&invite_redirect=/admin/",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:01:07",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.2s"
+        },
+        {
+            "label": "/users/invitation/accept?invitation_token=Fgyi3xaxE2JaMDbooqny&invite_redirect=/admin/",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:06:43",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.34s"
+        },
+        {
+            "label": "/users/invitation/accept?invitation_token=FvqLdn16S_58QmFz93jE&invite_redirect=/admin/",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.14s"
+        },
+        {
+            "label": "/users/invitation/accept?invitation_token=PZKm-xJYByw15wP68xRf&invite_redirect=/admin/",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "100%",
+            "avg_time_on_page": "00:00:00",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.5s"
+        },
+        {
+            "label": "/users/password/edit?reset_password_token=uTy3MLBRppazPCQKz_ZS",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:16",
+            "exit_rate": "0%",
+            "avg_time_generation": "0.1s"
+        },
+        {
+            "label": "/users/sign_up?redirect_url=/processes/pvd-habiter-autrement/f/8/proposals/new",
+            "nb_visits": 1,
+            "nb_hits": 1,
+            "bounce_rate": "0%",
+            "avg_time_on_page": "00:00:18",
+            "exit_rate": "100%",
+            "avg_time_generation": "0.27s"
+        }
+    ],
+    "reportMetadata": [
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique",
+            "Actions_PageUrl": "/processes/transformation-numerique",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/",
+            "Actions_PageUrl": "/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/steps",
+            "Actions_PageUrl": "/processes/transformation-numerique/steps",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Fsteps"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes",
+            "Actions_PageUrl": "/processes",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/sign_up",
+            "Actions_PageUrl": "/users/sign_up",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fsign_up"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/sign_in",
+            "Actions_PageUrl": "/users/sign_in",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fsign_in"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/27",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/27",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F27"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/33",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/33",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F33"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/7/",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/7/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F7%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/39",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/39",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F39"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/8/",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/8/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F8%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/18",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/18",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F18"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/37",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/37",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F37"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/45",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/45",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F45"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/38",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/38",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F38"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[state][]=withdrawn",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[state][]=withdrawn",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bstate%255D%255B%255D%253Dwithdrawn"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/32",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/32",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F32"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[state][]=withdrawn",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[state][]=withdrawn",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bstate%255D%255B%255D%253Dwithdrawn"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/13",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/13",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F13"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/40",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/40",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F40"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/31",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/31",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F31"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/34",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/34",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F34"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/44",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/44",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F44"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/24",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/24",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F24"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/26",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/26",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F26"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/29",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/29",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F29"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/account",
+            "Actions_PageUrl": "/account",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Faccount"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/17",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/17",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F17"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/46",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/46",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F46"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[category_id][]=9",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=9",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D9"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users",
+            "Actions_PageUrl": "/users",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/42",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/42",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F42"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/new",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/steps",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/steps",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Fsteps"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/19",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/19",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F19"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/15",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/15",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F15"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/40…",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/40…",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F40%25E2%2580%25A6"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/36",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/36",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F36"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/dHJhbnNmb3",
+            "Actions_PageUrl": "/processes/dHJhbnNmb3",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252FdHJhbnNmb3"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/25",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/25",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F25"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/28",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/28",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F28"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/new",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/35",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/35",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F35"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/pages",
+            "Actions_PageUrl": "/pages",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fpages"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/16",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/16",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F16"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/49",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/49",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F49"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/sign_up?redirect_url=/processes/transformation-numerique/f/5/proposals/new",
+            "Actions_PageUrl": "/users/sign_up?redirect_url=/processes/transformation-numerique/f/5/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fsign_up%253Fredirect_url%253D%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/pages/faq",
+            "Actions_PageUrl": "/pages/faq",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fpages%252Ffaq"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/pages/terms-and-conditions",
+            "Actions_PageUrl": "/pages/terms-and-conditions",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fpages%252Fterms-and-conditions"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd",
+            "Actions_PageUrl": "/processes/pvd",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/50",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/50",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F50"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/47",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/47",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F47"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Nico04150/activity",
+            "Actions_PageUrl": "/profiles/Nico04150/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNico04150%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/password/new",
+            "Actions_PageUrl": "/users/password/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fpassword%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/34?filter[category_id][]=1",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/34?filter[category_id][]=1",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F34%253Ffilter%255Bcategory_id%255D%255B%255D%253D1"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/incubateur_des_terri/activity",
+            "Actions_PageUrl": "/profiles/incubateur_des_terri/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fincubateur_des_terri%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/user_interests",
+            "Actions_PageUrl": "/user_interests",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fuser_interests"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/data_portability",
+            "Actions_PageUrl": "/data_portability",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fdata_portability"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/notifications_settings",
+            "Actions_PageUrl": "/notifications_settings",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fnotifications_settings"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/51",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/51",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F51"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/jmbourgogne-ODF/activity",
+            "Actions_PageUrl": "/profiles/jmbourgogne-ODF/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fjmbourgogne-ODF%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/vincent/activity",
+            "Actions_PageUrl": "/profiles/vincent/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fvincent%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/gamification/badges",
+            "Actions_PageUrl": "/gamification/badges",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fgamification%252Fbadges"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/pages/mentions-legales",
+            "Actions_PageUrl": "/pages/mentions-legales",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fpages%252Fmentions-legales"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/9/",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/9/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F9%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd/steps",
+            "Actions_PageUrl": "/processes/pvd/steps",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd%252Fsteps"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/47?order=recent",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/47?order=recent",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F47%253Forder%253Drecent"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[category_id][]=1",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=1",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D1"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/password",
+            "Actions_PageUrl": "/users/password",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fpassword"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/sign_up?locale=fr",
+            "Actions_PageUrl": "/users/sign_up?locale=fr",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fsign_up%253Flocale%253Dfr"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/conversations",
+            "Actions_PageUrl": "/conversations",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fconversations"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/notifications",
+            "Actions_PageUrl": "/notifications",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fnotifications"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/7/proposals/new",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/7/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F7%252Fproposals%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/8/proposals/new",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/8/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F8%252Fproposals%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/pvd-habiter-autrement-consultation",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/pvd-habiter-autrement-consultation",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Fpvd-habiter-autrement-consultation"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30?filter[state][]=withdrawn",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30?filter[state][]=withdrawn",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%253Ffilter%255Bstate%255D%255B%255D%253Dwithdrawn"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/45?filter[category_id][]=&filter[search_text]=&order=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/45?filter[category_id][]=&filter[search_text]=&order=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F45%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253D%2526order%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[category_id][]=12",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[category_id][]=12",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D12"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[category_id][]=8",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=8",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D8"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique?participatory_process_slug=transformation-numerique",
+            "Actions_PageUrl": "/processes/transformation-numerique?participatory_process_slug=transformation-numerique",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%253Fparticipatory_process_slug%253Dtransformation-numerique"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/BorderCloud/activity",
+            "Actions_PageUrl": "/profiles/BorderCloud/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FBorderCloud%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/EG04CCAPV/activity",
+            "Actions_PageUrl": "/profiles/EG04CCAPV/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FEG04CCAPV%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/LinaB/activity",
+            "Actions_PageUrl": "/profiles/LinaB/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FLinaB%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/NOUNOU/activity",
+            "Actions_PageUrl": "/profiles/NOUNOU/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNOUNOU%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/NOUNOU/timeline",
+            "Actions_PageUrl": "/profiles/NOUNOU/timeline",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNOUNOU%252Ftimeline"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/qsplorraine-54555788/activity",
+            "Actions_PageUrl": "/profiles/qsplorraine-54555788/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fqsplorraine-54555788%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/qsplorraine-54555788/following",
+            "Actions_PageUrl": "/profiles/qsplorraine-54555788/following",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fqsplorraine-54555788%252Ffollowing"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/RSSI/activity",
+            "Actions_PageUrl": "/profiles/RSSI/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FRSSI%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/confirmation",
+            "Actions_PageUrl": "/users/confirmation",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fconfirmation"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/sign_up?redirect_url=/processes/transformation-numerique/f/2/proposals/new",
+            "Actions_PageUrl": "/users/sign_up?redirect_url=/processes/transformation-numerique/f/2/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fsign_up%253Fredirect_url%253D%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/etapes",
+            "Actions_PageUrl": "/etapes",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fetapes"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/6/",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/6/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F6%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/8/proposals",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/8/proposals",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F8%252Fproposals"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/8/proposals/48/complete",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/8/proposals/48/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F8%252Fproposals%252F48%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/f/8/proposals?filter[state][]=withdrawn",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/f/8/proposals?filter[state][]=withdrawn",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F8%252Fproposals%253Ffilter%255Bstate%255D%255B%255D%253Dwithdrawn"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd-habiter-autrement/pvd-habiter-autrement/f/9/",
+            "Actions_PageUrl": "/processes/pvd-habiter-autrement/pvd-habiter-autrement/f/9/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd-habiter-autrement%252Fpvd-habiter-autrement%252Ff%252F9%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/pvd/f/6/",
+            "Actions_PageUrl": "/processes/pvd/f/6/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Fpvd%252Ff%252F6%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/<span id=\"ms-outlook-android-cursor\">!~OMSelectionMarkerEnd~",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/<span id=\"ms-outlook-android-cursor\">!~OMSelectionMarkerEnd~",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252F%253Cspan%2Bid%253D%2522ms-outlook-android-cursor%2522%253E%2521%257EOMSelectionMarkerEnd%257E"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/13?filter[category_id][]=&filter[category_id][]=10&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/13?filter[category_id][]=&filter[category_id][]=10&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F13%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D10%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/14?filter[state][]=withdrawn",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/14?filter[state][]=withdrawn",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F14%253Ffilter%255Bstate%255D%255B%255D%253Dwithdrawn"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/15?filter[category_id][]=&filter[category_id][]=3&filter[category_id][]=11&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/15?filter[category_id][]=&filter[category_id][]=3&filter[category_id][]=11&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F15%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D3%2526filter%255Bcategory_id%255D%255B%255D%253D11%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/15?filter[category_id][]=&filter[category_id][]=3&filter[search_text]=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/15?filter[category_id][]=&filter[category_id][]=3&filter[search_text]=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F15%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D3%2526filter%255Bsearch_text%255D%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/16?locale=fr",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/16?locale=fr",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F16%253Flocale%253Dfr"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/17?filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=12&filter[category_id][]=10&filter[category_id][]=8&filter[category_id][]=13&filter[category_id][]=11&filter[category_id][]=1&filter[category_id][]=7&filter[category_id][]=4&filter[category_id][]=15&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/17?filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=12&filter[category_id][]=10&filter[category_id][]=8&filter[category_id][]=13&filter[category_id][]=11&filter[category_id][]=1&filter[category_id][]=7&filter[category_id][]=4&filter[category_id][]=15&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F17%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D14%2526filter%255Bcategory_id%255D%255B%255D%253D12%2526filter%255Bcategory_id%255D%255B%255D%253D10%2526filter%255Bcategory_id%255D%255B%255D%253D8%2526filter%255Bcategory_id%255D%255B%255D%253D13%2526filter%255Bcategory_id%255D%255B%255D%253D11%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bcategory_id%255D%255B%255D%253D7%2526filter%255Bcategory_id%255D%255B%255D%253D4%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/18/versions",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/18/versions",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F18%252Fversions"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/18?filter[category_id][]=&filter[category_id][]=5&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/18?filter[category_id][]=&filter[category_id][]=5&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F18%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D5%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30/edit",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30/edit",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%252Fedit"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30/edit_draft",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30/edit_draft",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%252Fedit_draft"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30/versions",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30/versions",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%252Fversions"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30/versions/1",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30/versions/1",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%252Fversions%252F1"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/30?filter[category_id][]=&filter[search_text]=&order=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/30?filter[category_id][]=&filter[search_text]=&order=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F30%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253D%2526order%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/37/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/37/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F37%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/37/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/37/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F37%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/37?filter[category_id][]=&filter[search_text]=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/37?filter[category_id][]=&filter[search_text]=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F37%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/42/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/42/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F42%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/42/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/42/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F42%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/42?filter[activity]=all&filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=9&filter[category_id][]=1&filter[category_id][]=2&filter[category_id][]=4&filter[category_id][]=15&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/42?filter[activity]=all&filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=9&filter[category_id][]=1&filter[category_id][]=2&filter[category_id][]=4&filter[category_id][]=15&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F42%253Ffilter%255Bactivity%255D%253Dall%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D14%2526filter%255Bcategory_id%255D%255B%255D%253D9%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bcategory_id%255D%255B%255D%253D2%2526filter%255Bcategory_id%255D%255B%255D%253D4%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/44/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/44/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F44%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/44/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/44/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F44%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/49/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/49/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F49%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/49/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/49/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F49%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/50/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/50/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F50%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/50/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/50/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252F50%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals/scdl.opendatafrance.net",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals/scdl.opendatafrance.net",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%252Fscdl.opendatafrance.net"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[category_id][]=9",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[category_id][]=9",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D9"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[category_id][]=13",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[category_id][]=13",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D13"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=3&filter[category_id][]=11",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=3&filter[category_id][]=11",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D3%2526filter%255Bcategory_id%255D%255B%255D%253D11"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=5",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=5",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D5"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=10",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=10",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D10"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=9&filter[category_id][]=1&filter[category_id][]=2&filter[category_id][]=4&filter[category_id][]=15&filter[activity]=all",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=14&filter[category_id][]=9&filter[category_id][]=1&filter[category_id][]=2&filter[category_id][]=4&filter[category_id][]=15&filter[activity]=all",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D14%2526filter%255Bcategory_id%255D%255B%255D%253D9%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bcategory_id%255D%255B%255D%253D2%2526filter%255Bcategory_id%255D%255B%255D%253D4%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bactivity%255D%253Dall"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/2/proposals?order=recent&per_page=100",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/2/proposals?order=recent&per_page=100",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F2%252Fproposals%253Forder%253Drecent%2526per_page%253D100"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/24?component_id=5&locale=fr&order=most_followed&participatory_process_slug=transformation-numerique",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/24?component_id=5&locale=fr&order=most_followed&participatory_process_slug=transformation-numerique",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F24%253Fcomponent_id%253D5%2526locale%253Dfr%2526order%253Dmost_followed%2526participatory_process_slug%253Dtransformation-numerique"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/26?filter[category_id][]=&filter[category_id][]=12&filter[category_id][]=8&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/26?filter[category_id][]=&filter[category_id][]=12&filter[category_id][]=8&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F26%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D12%2526filter%255Bcategory_id%255D%255B%255D%253D8%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/26?filter[category_id][]=8",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/26?filter[category_id][]=8",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F26%253Ffilter%255Bcategory_id%255D%255B%255D%253D8"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F27%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=&filter[category_id][]=6&filter[category_id][]=1&filter[category_id][]=4&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=&filter[category_id][]=6&filter[category_id][]=1&filter[category_id][]=4&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F27%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D6%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bcategory_id%255D%255B%255D%253D4%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=1",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/27?filter[category_id][]=1",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F27%253Ffilter%255Bcategory_id%255D%255B%255D%253D1"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/28?filter[category_id][]=&filter[category_id][]=2&filter[category_id][]=15&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/28?filter[category_id][]=&filter[category_id][]=2&filter[category_id][]=15&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F28%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D2%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/29?filter[activity]=all&filter[category_id][]=&filter[category_id][]=15&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/29?filter[activity]=all&filter[category_id][]=&filter[category_id][]=15&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F29%253Ffilter%255Bactivity%255D%253Dall%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/29?filter[category_id][]=&filter[category_id][]=15&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/29?filter[category_id][]=&filter[category_id][]=15&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F29%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/31/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/31/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F31%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/31/edit",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/31/edit",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F31%252Fedit"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/31/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/31/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F31%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/31?filter[category_id][]=9",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/31?filter[category_id][]=9",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F31%253Ffilter%255Bcategory_id%255D%255B%255D%253D9"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/32/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/32/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F32%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/32/edit_draft",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/32/edit_draft",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F32%252Fedit_draft"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/32/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/32/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F32%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/32?filter[category_id][]=9",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/32?filter[category_id][]=9",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F32%253Ffilter%255Bcategory_id%255D%255B%255D%253D9"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/33/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/33/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F33%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/33/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/33/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F33%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/33?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/33?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F33%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D9%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/34/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/34/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F34%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/34/edit",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/34/edit",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F34%252Fedit"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/34/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/34/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F34%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/34?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/34?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F34%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bsearch_text%255D%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/35/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/35/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F35%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/35/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/35/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F35%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/35?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/35?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F35%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bsearch_text%255D%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/35?order=most_followed",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/35?order=most_followed",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F35%253Forder%253Dmost_followed"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/36/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/36/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F36%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/36/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/36/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F36%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/36?commentId=12",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/36?commentId=12",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F36%253FcommentId%253D12"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/36?filter[category_id][]=4",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/36?filter[category_id][]=4",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F36%253Ffilter%255Bcategory_id%255D%255B%255D%253D4"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/38/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/38/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F38%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/38/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/38/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F38%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/38?filter[category_id][]=&filter[category_id][]=5&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/38?filter[category_id][]=&filter[category_id][]=5&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F38%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D5%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/38?filter[category_id][]=&filter[category_id][]=6&filter[category_id][]=5&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/38?filter[category_id][]=&filter[category_id][]=6&filter[category_id][]=5&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F38%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D6%2526filter%255Bcategory_id%255D%255B%255D%253D5%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/39/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/39/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F39%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/39/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/39/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F39%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/39?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/39?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F39%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D9%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/39?order=most_followed",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/39?order=most_followed",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F39%253Forder%253Dmost_followed"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41?filter[activity]=all&filter[category_id][]=&filter[search_text]=smica&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41?filter[activity]=all&filter[category_id][]=&filter[search_text]=smica&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41%253Ffilter%255Bactivity%255D%253Dall%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253Dsmica%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41?filter[activity]=my_proposals&filter[category_id][]=&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41?filter[activity]=my_proposals&filter[category_id][]=&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41%253Ffilter%255Bactivity%255D%253Dmy_proposals%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41?filter[category_id][]=&filter[category_id][]=1&filter[search_text]=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D1%2526filter%255Bsearch_text%255D%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/41?filter[category_id][]=&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/41?filter[category_id][]=&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F41%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/43/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/43/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F43%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/46/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/46/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F46%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/46/edit",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/46/edit",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F46%252Fedit"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/46/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/46/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F46%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/46?filter[category_id][]=&filter[search_text]=archivage&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/46?filter[category_id][]=&filter[search_text]=archivage&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F46%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bsearch_text%255D%253Darchivage%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/46?filter[category_id][]=9",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/46?filter[category_id][]=9",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F46%253Ffilter%255Bcategory_id%255D%255B%255D%253D9"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/47/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/47/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F47%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/47/edit_draft",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/47/edit_draft",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F47%252Fedit_draft"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/47/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/47/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F47%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/47?order=most_followed",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/47?order=most_followed",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F47%253Forder%253Dmost_followed"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/51/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/51/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F51%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/51/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/51/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F51%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/51?order=recent",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/51?order=recent",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F51%253Forder%253Drecent"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/53",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/53",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F53"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/53/complete",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/53/complete",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F53%252Fcomplete"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/53/preview",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/53/preview",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F53%252Fpreview"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals/53?order=recent",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals/53?order=recent",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%252F53%253Forder%253Drecent"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=&filter[category_id][]=9&filter[search_text]=&order=random",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D9%2526filter%255Bsearch_text%255D%253D%2526order%253Drandom"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[category_id][]=4",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[category_id][]=4",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bcategory_id%255D%255B%255D%253D4"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=1",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=1",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D1"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=2&filter[category_id][]=15",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=2&filter[category_id][]=15",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D2%2526filter%255Bcategory_id%255D%255B%255D%253D15"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=12&filter[category_id][]=8",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=12&filter[category_id][]=8",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D12%2526filter%255Bcategory_id%255D%255B%255D%253D8"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=15&filter[activity]=all",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?filter[search_text]=&filter[category_id][]=&filter[category_id][]=15&filter[activity]=all",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Ffilter%255Bsearch_text%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D%2526filter%255Bcategory_id%255D%255B%255D%253D15%2526filter%255Bactivity%255D%253Dall"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique/f/5/proposals?order=most_followed",
+            "Actions_PageUrl": "/processes/transformation-numerique/f/5/proposals?order=most_followed",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprocesses%252Ftransformation-numerique%252Ff%252F5%252Fproposals%253Forder%253Dmost_followed"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Bruno_IRATCHET/activity",
+            "Actions_PageUrl": "/profiles/Bruno_IRATCHET/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FBruno_IRATCHET%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Bruno_IRATCHET/followers",
+            "Actions_PageUrl": "/profiles/Bruno_IRATCHET/followers",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FBruno_IRATCHET%252Ffollowers"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Bruno_IRATCHET/following",
+            "Actions_PageUrl": "/profiles/Bruno_IRATCHET/following",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FBruno_IRATCHET%252Ffollowing"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Bruno_IRATCHET/groups",
+            "Actions_PageUrl": "/profiles/Bruno_IRATCHET/groups",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FBruno_IRATCHET%252Fgroups"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Bruno_IRATCHET/timeline",
+            "Actions_PageUrl": "/profiles/Bruno_IRATCHET/timeline",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FBruno_IRATCHET%252Ftimeline"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/fanetk/activity",
+            "Actions_PageUrl": "/profiles/fanetk/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Ffanetk%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Montastruc/timeline",
+            "Actions_PageUrl": "/profiles/Montastruc/timeline",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FMontastruc%252Ftimeline"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Nico04150/followers",
+            "Actions_PageUrl": "/profiles/Nico04150/followers",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNico04150%252Ffollowers"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Nico04150/following",
+            "Actions_PageUrl": "/profiles/Nico04150/following",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNico04150%252Ffollowing"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Nico04150/groups",
+            "Actions_PageUrl": "/profiles/Nico04150/groups",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNico04150%252Fgroups"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/Nico04150/timeline",
+            "Actions_PageUrl": "/profiles/Nico04150/timeline",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNico04150%252Ftimeline"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/NOUNOU/following",
+            "Actions_PageUrl": "/profiles/NOUNOU/following",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FNOUNOU%252Ffollowing"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/qsplorraine-54555788/followers",
+            "Actions_PageUrl": "/profiles/qsplorraine-54555788/followers",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fqsplorraine-54555788%252Ffollowers"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/qsplorraine-54555788/groups",
+            "Actions_PageUrl": "/profiles/qsplorraine-54555788/groups",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fqsplorraine-54555788%252Fgroups"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/ThierryMartin/activity",
+            "Actions_PageUrl": "/profiles/ThierryMartin/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FThierryMartin%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/VangheluweStephane/activity",
+            "Actions_PageUrl": "/profiles/VangheluweStephane/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FVangheluweStephane%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/VangheluweStephane/timeline",
+            "Actions_PageUrl": "/profiles/VangheluweStephane/timeline",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252FVangheluweStephane%252Ftimeline"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/vincent/timeline",
+            "Actions_PageUrl": "/profiles/vincent/timeline",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fvincent%252Ftimeline"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/wcamalet/activity",
+            "Actions_PageUrl": "/profiles/wcamalet/activity",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fwcamalet%252Factivity"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/wcamalet/followers",
+            "Actions_PageUrl": "/profiles/wcamalet/followers",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fwcamalet%252Ffollowers"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/wcamalet/following",
+            "Actions_PageUrl": "/profiles/wcamalet/following",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fwcamalet%252Ffollowing"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/profiles/wcamalet/groups",
+            "Actions_PageUrl": "/profiles/wcamalet/groups",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fprofiles%252Fwcamalet%252Fgroups"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/relance/",
+            "Actions_PageUrl": "/relance/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Frelance%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/search?utf8=✓&term=&commit=",
+            "Actions_PageUrl": "/search?utf8=✓&term=&commit=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fsearch%253Futf8%253D%25E2%259C%2593%2526term%253D%2526commit%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/search?utf8=✓&term=conseille+numerique&commit=",
+            "Actions_PageUrl": "/search?utf8=✓&term=conseille+numerique&commit=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fsearch%253Futf8%253D%25E2%259C%2593%2526term%253Dconseille%252Bnumerique%2526commit%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/search?utf8=✓&term=enquête+mobilité&commit=",
+            "Actions_PageUrl": "/search?utf8=✓&term=enquête+mobilité&commit=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fsearch%253Futf8%253D%25E2%259C%2593%2526term%253Denqu%25C3%25AAte%252Bmobilit%25C3%25A9%2526commit%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/search?utf8=✓&term=petites+villes+de+demain&commit=",
+            "Actions_PageUrl": "/search?utf8=✓&term=petites+villes+de+demain&commit=",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fsearch%253Futf8%253D%25E2%259C%2593%2526term%253Dpetites%252Bvilles%252Bde%252Bdemain%2526commit%253D"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/confirmation/new",
+            "Actions_PageUrl": "/users/confirmation/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fconfirmation%252Fnew"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/confirmation?confirmation_token=AE-GnZxfUyoBs97Us_Pe",
+            "Actions_PageUrl": "/users/confirmation?confirmation_token=AE-GnZxfUyoBs97Us_Pe",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fconfirmation%253Fconfirmation_token%253DAE-GnZxfUyoBs97Us_Pe"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/confirmation?confirmation_token=T611RGaREbjv87VDJtAQ",
+            "Actions_PageUrl": "/users/confirmation?confirmation_token=T611RGaREbjv87VDJtAQ",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fconfirmation%253Fconfirmation_token%253DT611RGaREbjv87VDJtAQ"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/invitation/accept?invitation_token=Bsv4ANh_7K1GmMn5otZk&invite_redirect=/admin/",
+            "Actions_PageUrl": "/users/invitation/accept?invitation_token=Bsv4ANh_7K1GmMn5otZk&invite_redirect=/admin/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Finvitation%252Faccept%253Finvitation_token%253DBsv4ANh_7K1GmMn5otZk%2526invite_redirect%253D%252Fadmin%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/invitation/accept?invitation_token=Fgyi3xaxE2JaMDbooqny&invite_redirect=/admin/",
+            "Actions_PageUrl": "/users/invitation/accept?invitation_token=Fgyi3xaxE2JaMDbooqny&invite_redirect=/admin/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Finvitation%252Faccept%253Finvitation_token%253DFgyi3xaxE2JaMDbooqny%2526invite_redirect%253D%252Fadmin%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/invitation/accept?invitation_token=FvqLdn16S_58QmFz93jE&invite_redirect=/admin/",
+            "Actions_PageUrl": "/users/invitation/accept?invitation_token=FvqLdn16S_58QmFz93jE&invite_redirect=/admin/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Finvitation%252Faccept%253Finvitation_token%253DFvqLdn16S_58QmFz93jE%2526invite_redirect%253D%252Fadmin%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/invitation/accept?invitation_token=PZKm-xJYByw15wP68xRf&invite_redirect=/admin/",
+            "Actions_PageUrl": "/users/invitation/accept?invitation_token=PZKm-xJYByw15wP68xRf&invite_redirect=/admin/",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Finvitation%252Faccept%253Finvitation_token%253DPZKm-xJYByw15wP68xRf%2526invite_redirect%253D%252Fadmin%252F"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/password/edit?reset_password_token=uTy3MLBRppazPCQKz_ZS",
+            "Actions_PageUrl": "/users/password/edit?reset_password_token=uTy3MLBRppazPCQKz_ZS",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fpassword%252Fedit%253Freset_password_token%253DuTy3MLBRppazPCQKz_ZS"
+        },
+        {
+            "url": "https://mon.incubateur.anct.gouv.fr/users/sign_up?redirect_url=/processes/pvd-habiter-autrement/f/8/proposals/new",
+            "Actions_PageUrl": "/users/sign_up?redirect_url=/processes/pvd-habiter-autrement/f/8/proposals/new",
+            "segment": "pageUrl==https%253A%252F%252Fmon.incubateur.anct.gouv.fr%252Fusers%252Fsign_up%253Fredirect_url%253D%252Fprocesses%252Fpvd-habiter-autrement%252Ff%252F8%252Fproposals%252Fnew"
+        }
+    ],
+    "reportTotal": {
+        "nb_visits": 3286,
+        "nb_hits": 4897,
+        "sum_time_spent": 312874,
+        "sum_time_generation": 2313.8229999999994,
+        "nb_hits_with_time_generation": 4744,
+        "min_time_generation": 2.763,
+        "max_time_generation": 38.178,
+        "entry_nb_visits": 1452,
+        "entry_nb_actions": 5159,
+        "entry_sum_visit_length": 315374,
+        "entry_bounce_count": 692,
+        "exit_nb_visits": 1453,
+        "nb_hits_following_search": 1,
+        "sum_daily_nb_uniq_visitors": 416,
+        "sum_daily_entry_nb_uniq_visitors": 230,
+        "sum_daily_exit_nb_uniq_visitors": 152
+    },
+    "timerMillis": "45"
+}
