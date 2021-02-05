@@ -17,17 +17,20 @@ def set_uri(request_type):
     elif request_type == "pages":
         settings.API_ACTION = "getPageUrls"
         settings.API_MODULE = "Actions"
-        settings.FLAT = "1"
+        settings.FLAT = 1
         settings.PERIOD = "range"
-        settings.FORMAT_METRICS = 0
-        settings.EXPANDED = 0
+    elif request_type == "referrers":
+        settings.API_ACTION = ""
+        settings.API_MODULE = ""
+        settings.METHOD = "Referrers.getReferrerType"
+        settings.EXPANDED = 1
+        settings.PERIOD = "range"
     uri = (
         settings.BASE_URL +
         f"apiAction={settings.API_ACTION}" +
         f"&apiModule={settings.API_MODULE}" +
         f"&date={settings.DATE}" +
         f"&filter_limit={settings.FILTER_LIMIT}" +
-        f"&flat={settings.FLAT}" +
         f"&format={settings.FORMAT}" +
         f"&idSite={settings.ID_SITE}" +
         f"&method={settings.METHOD}" +
@@ -37,4 +40,5 @@ def set_uri(request_type):
     )
     uri += "&format_metrics=1" if settings.FORMAT_METRICS else ""
     uri += "&expanded=1" if settings.EXPANDED else ""
+    uri += "&flat=1" if settings.FLAT else ""
     return uri

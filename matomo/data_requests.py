@@ -7,12 +7,35 @@ def main():
     settings.init()  # noqa
     global report
     report = get_report()
-    pprint(get_week_total_visits())
-    pprint(get_avg_visit_time())
-    pprint(get_bounce_rate())
+    global total_visits
+    total_visits = get_week_total_visits()
+    # pprint(get_avg_visit_time())
+    # pprint(get_bounce_rate())
 
-    pages_urls = ["/processes/transformation-numerique/f/5/","/processes/transformation-numerique/f/2/"]  # noqa
-    get_visited_urls_number_of_visit(pages_urls)
+    # pages_urls = ["/processes/transformation-numerique/f/5/","/processes/transformation-numerique/f/2/"]  # noqa
+    # get_visited_urls_number_of_visit(pages_urls)
+    referrer_report = get_report("referrers")
+    pprint(get_referrers_repartition(referrer_report))
+
+
+def get_referrers_repartition(referrers):
+    main_referrers = []
+    for referrer in referrers:
+        if is_above_n_percent(referrer['nb_visits']):
+            main_referrers.append({
+                referrer["label"]: referrer["nb_visits"]
+            })
+            if referrer.get("subtable"):
+                main_referrers.append(
+                    get_referrers_repartition(referrer["subtable"])
+                )
+    return main_referrers
+
+
+def is_above_n_percent(referrer_visits_number, percent=.05):
+    if (referrer_visits_number / total_visits) >= percent:
+        return True
+    return False
 
 
 def get_visited_urls_number_of_visit(pages_urls=[]):
