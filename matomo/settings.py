@@ -1,26 +1,24 @@
 import urllib3
+import yaml
 
-BASE_URL = "https://stats.data.gouv.fr/index.php?"
 API_ACTION = "get"
 API_MODULE = "API"
 DATE = ""
 EXPANDED = 0
 FILTER_LIMIT = "-1"
-FLAT = ""
+FLAT = 0
 FORMAT = "JSON"
 FORMAT_METRICS = 0
-ID_SITE = "150"
 METHOD = "API.getProcessedReport"
 MODULE = "API"
 PERIOD = "week"
-TOKEN = "anonymous"
-
-
-# API_ACTION_PAGES_REPORT = "apiAction=getPageUrls&apiModule=Actions"
-
-# val  = "&flat=1&period=range"
 
 
 def init():
-    global http
+    global http, BASE_URL, ID_SITE, TOKEN
+    with open('matomo/secrets.yml', 'r') as f:
+        data = yaml.safe_load(f)
+        BASE_URL = data['matomo']['base_url'] + "/index.php?"
+        ID_SITE = data['matomo']['id_site']
+        TOKEN = data['matomo']['token']
     http = urllib3.PoolManager()

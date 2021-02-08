@@ -24,6 +24,7 @@ def set_uri(request_type):
         settings.API_MODULE = ""
         settings.METHOD = "Referrers.getReferrerType"
         settings.EXPANDED = 1
+        settings.FLAT = 0
         settings.PERIOD = "range"
     uri = (
         settings.BASE_URL +

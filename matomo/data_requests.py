@@ -9,11 +9,12 @@ def main():
     report = get_report()
     global total_visits
     total_visits = get_week_total_visits()
-    # pprint(get_avg_visit_time())
-    # pprint(get_bounce_rate())
+    pprint(total_visits)
+    pprint(get_avg_visit_time())
+    pprint(get_bounce_rate())
 
-    # pages_urls = ["/processes/transformation-numerique/f/5/","/processes/transformation-numerique/f/2/"]  # noqa
-    # get_visited_urls_number_of_visit(pages_urls)
+    pages_urls = ["/processes/transformation-numerique/f/5/","/processes/transformation-numerique/f/2/"]  # noqa
+    get_visited_urls_number_of_visit(pages_urls)
     referrer_report = get_report("referrers")
     pprint(get_referrers_repartition(referrer_report))
 
