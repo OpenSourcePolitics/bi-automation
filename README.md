@@ -20,9 +20,11 @@ These 3 tool are wrapped in the `main.py` file, which aims to coordinate the dat
 You're good to go !
 
 ## TODO
-- [] Add tests
-  - [] matomo
-  - [] metabase
-  - [] google docs/drive
-- [] normalize functions that catch data
-- [] normalized google docs functions 
+
+- [ ] Add tests
+  - [ ] matomo
+  - [ ] metabase
+  - [ ] google docs/drive
+- [ ] normalize matomo functions
+- [ ] normalize metabase functions
+- [ ] normalized google docs functions 
