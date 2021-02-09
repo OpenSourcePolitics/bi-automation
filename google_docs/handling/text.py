@@ -14,7 +14,7 @@ def add_text(text, index):
         },
     ]
 
-    settings.service.documents().batchUpdate(
+    settings.docs_service.documents().batchUpdate(
         documentId=file.doc_id,
         body={'requests': requests}
     ).execute()
@@ -22,7 +22,7 @@ def add_text(text, index):
 
 def replace_text(string_to_replace, string_to_input):
     requests = [
-         {
+        {
             'replaceAllText': {
                 'containsText': {
                     'text': string_to_replace,
@@ -33,7 +33,7 @@ def replace_text(string_to_replace, string_to_input):
         }
     ]
 
-    settings.service.documents().batchUpdate(
+    settings.docs_service.documents().batchUpdate(
         documentId=file.doc_id,
         body={'requests': requests}
     ).execute()

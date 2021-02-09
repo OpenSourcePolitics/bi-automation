@@ -6,7 +6,11 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 
-SCOPES = ['https://www.googleapis.com/auth/documents']
+SCOPES = [
+    'https://www.googleapis.com/auth/documents',
+    'https://www.googleapis.com/auth/drive'
+]
+
 
 def init():
     """Shows basic usage of the Docs API.
@@ -30,5 +34,6 @@ def init():
         # Save the credentials for the next run
         with open('token.pickle', 'wb') as token:
             pickle.dump(creds, token)
-    global service
-    service = build('docs', 'v1', credentials=creds)
+    global docs_service, drive_service
+    docs_service = build('docs', 'v1', credentials=creds)
+    drive_service = build('drive', 'v3', credentials=creds)

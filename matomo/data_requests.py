@@ -1,22 +1,31 @@
 import settings # noqa
 from urilib import get_report
-from pprint import pprint
 
 
-def main():
+def metrics():
     settings.init()  # noqa
     global report
-    report = get_report()
+    start_date = str(input("Enter day of beginning_report"))
+    report = get_report("general", start_date=start_date)
     global total_visits
-    total_visits = get_week_total_visits()
-    pprint(total_visits)
-    pprint(get_avg_visit_time())
-    pprint(get_bounce_rate())
-
+    metrics = {}
+    metrics["start_date"] = start_date
+    metrics["total_visits"] = get_week_total_visits()
+    total_visits = metrics["total_visits"]
+    metrics["avg_visit_time"] = get_avg_visit_time()
+    metrics["bounce_rate"] = get_bounce_rate()
     pages_urls = ["/processes/transformation-numerique/f/5/","/processes/transformation-numerique/f/2/"]  # noqa
-    get_visited_urls_number_of_visit(pages_urls)
-    referrer_report = get_report("referrers")
-    pprint(get_referrers_repartition(referrer_report))
+    metrics["visited_urls_visits"] = get_visited_urls_number_of_visit(
+        pages_urls
+    )
+    metrics["referrer_report"] = get_referrers_repartition(
+        get_report(
+            "referrers",
+            start_date=start_date
+        )
+    )
+
+    return metrics
 
 
 def get_referrers_repartition(referrers):
@@ -40,12 +49,14 @@ def is_above_n_percent(referrer_visits_number, percent=.05):
 
 
 def get_visited_urls_number_of_visit(pages_urls=[]):
+    visits_per_url = {}
     pages_report = get_report("pages")
     report_data = pages_report['reportData']
     for page_url in pages_urls:
         for page in report_data:
             if page['label'] == page_url:
-                print(f"{page_url} visited {page['nb_visits']} times")  # noqa
+                visits_per_url[page_url] = page["nb_visits"]
+    return visits_per_url
 
 
 def get_week_total_visits():
@@ -65,6 +76,3 @@ def get_bounce_rate():
 def get_metadata(report):
     week_key = list(report['reportData'].keys())[0]
     return report['reportData'][week_key]
-
-
-main()

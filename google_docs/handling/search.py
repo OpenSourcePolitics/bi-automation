@@ -6,7 +6,7 @@ def get_doc_content():
     """
         Return the content of the current file as a dictionnary
     """
-    result = settings.service.documents().get(
+    result = settings.docs_service.documents().get(
         documentId=file.doc_id
     ).execute()['body']['content']
     return result

@@ -24,7 +24,7 @@ def add_image(image_uri, index, objectSize={}):
         }
     }]
     body = {'requests': requests}
-    settings.service.documents().batchUpdate(
+    settings.docs_service.documents().batchUpdate(
         documentId=file.doc_id,
         body=body
     ).execute()

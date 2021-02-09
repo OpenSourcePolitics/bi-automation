@@ -1,12 +1,11 @@
 import settings
 from http_handler import http_get
-from date import get_report_dates
-
-from datetime import date, timedelta
+from date import get_report_dates, serialize_date, date
 
 
-def get_report(type="general"):
-    settings.DATE = get_report_dates(date.today()-timedelta(7))
+def get_report(type="general", start_date=None):
+    start_date = serialize_date(start_date) if isinstance(start_date, str) else date.today()  # noqa
+    settings.DATE = get_report_dates(start_date)
     http_request = set_uri(type)
     return http_get(http_request)
 
