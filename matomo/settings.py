@@ -11,7 +11,7 @@ FORMAT = "JSON"
 FORMAT_METRICS = 0
 METHOD = "API.getProcessedReport"
 MODULE = "API"
-PERIOD = "week"
+PERIOD = "range"
 
 
 def init():
@@ -22,3 +22,12 @@ def init():
         ID_SITE = data['matomo']['id_site']
         TOKEN = data['matomo']['token']
     http = urllib3.PoolManager()
+
+
+def get_pages_urls():
+    pages_urls = []
+    with open("matomo/secrets.yml", "r") as f:
+        for page_url in yaml.safe_load(f)['urls']:
+            pages_urls.append(f"^{page_url}.*")
+
+    return pages_urls
