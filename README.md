@@ -20,11 +20,9 @@ These 3 tool are wrapped in the `main.py` file, which aims to coordinate the dat
 You're good to go !
 
 ## TODO
-
+- [ ] Define roadmap
 - [ ] Add tests
   - [ ] matomo
   - [ ] metabase
   - [ ] google docs/drive
-- [ ] normalize matomo functions
-- [ ] normalize metabase functions
-- [ ] normalized google docs functions 
+- [ ] Build a basic CLI for non-tech use (example: I want *this* piece of data to fill *that* part of a google docs). Further specifications needed.
