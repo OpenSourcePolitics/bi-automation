@@ -4,7 +4,7 @@ import re
 
 
 def metrics():
-    settings.init()  # noqa
+    settings.init()
     global report, total_visits
     start_date = str(input("Enter starting day of report: "))
     end_date = str(input("Enter ending day of report: "))

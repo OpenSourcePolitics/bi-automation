@@ -26,7 +26,7 @@ def init():
 
 def get_pages_urls():
     pages_urls = []
-    with open("matomo/secrets.yml", "r") as f:
+    with open("matomo/requests.yml", "r") as f:
         for page_url in yaml.safe_load(f)['urls']:
             pages_urls.append(f"^{page_url}.*")
 
